@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gongzhaoxu
-- 👀 I’m interested in c/c++ java web
+- 👀 I’m interested in c/c++ java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
