@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gongzhaoxu
 - 👀 I’m interested in c/c++ java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on money tree
 - 📫 How to reach me 
      email:1016661922@qq.com
      
